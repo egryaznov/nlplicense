@@ -1,0 +1,1 @@
+# Sappy Software License Classificator
